@@ -41,15 +41,16 @@ ls
 
 ### 6. GitHub Submission
 1. **screenshots** of the dashboard.
-![Dashboard](image.png)
-![alt text](image-1.png)
+<img width="2159" height="1246" alt="image" src="https://github.com/user-attachments/assets/4764ab10-dfe7-485c-b3c3-cc07a0c380ba" />
+<img width="2159" height="1245" alt="image" src="https://github.com/user-attachments/assets/e2da4c31-b97f-422d-b3ba-11bf95e37d74" />
+
 2. Push to GitHub:
 ```bash
 git init
 git add .
 git commit -m "Netdata monitoring task"
 git branch -M main
-git remote add origin https://github.com/your-username/netdata-monitoring-task.git
+git remote add origin https://github.com/Manthan-Sinojiya/Netdata-Monitoring-Task.git
 git push -u origin main
 ```
 
